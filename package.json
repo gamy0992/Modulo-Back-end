@@ -1,0 +1,19 @@
+{
+  "name": "first-proyect",
+  "version": "1.0.0",
+  "description": "primer proyecto en node",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test":"echo 'esta es una prueba'",
+    "yair":"echo 'hola yair'"
+  },
+  "keywords": [
+    "gamy0992"
+  ],
+  "author": "gamy",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
